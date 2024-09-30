@@ -1,0 +1,16 @@
+{
+  "name": "project_mavonic",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/formbody": "^8.0.1",
+    "fastify": "^5.0.0"
+  }
+}
